@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/simplequiz/static/css/main.d8dc47ce.chunk.css",
+    "main.js": "/simplequiz/static/js/main.ab157166.chunk.js",
+    "main.js.map": "/simplequiz/static/js/main.ab157166.chunk.js.map",
+    "runtime-main.js": "/simplequiz/static/js/runtime-main.a54398f2.js",
+    "runtime-main.js.map": "/simplequiz/static/js/runtime-main.a54398f2.js.map",
+    "static/js/2.743b3c85.chunk.js": "/simplequiz/static/js/2.743b3c85.chunk.js",
+    "static/js/2.743b3c85.chunk.js.map": "/simplequiz/static/js/2.743b3c85.chunk.js.map",
+    "index.html": "/simplequiz/index.html",
+    "static/css/main.d8dc47ce.chunk.css.map": "/simplequiz/static/css/main.d8dc47ce.chunk.css.map",
+    "static/js/2.743b3c85.chunk.js.LICENSE.txt": "/simplequiz/static/js/2.743b3c85.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a54398f2.js",
+    "static/js/2.743b3c85.chunk.js",
+    "static/css/main.d8dc47ce.chunk.css",
+    "static/js/main.ab157166.chunk.js"
+  ]
+}
